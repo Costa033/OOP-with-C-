@@ -1,0 +1,6 @@
+﻿  Source.cpp
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\CompanyEmployees\CompanyEmployees\Source.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\CompanyEmployees\CompanyEmployees\Source.cpp(9,46): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\CompanyEmployees\CompanyEmployees\Source.cpp(14,25): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\CompanyEmployees\CompanyEmployees\Source.cpp(19,72): warning C4305: 'argument': truncation from 'double' to 'float'
+  CompanyEmployees.vcxproj -> H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\CompanyEmployees\x64\Debug\CompanyEmployees.exe
