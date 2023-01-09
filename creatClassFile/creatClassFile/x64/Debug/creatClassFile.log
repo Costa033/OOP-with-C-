@@ -1,0 +1,9 @@
+﻿  distance.cpp
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\creatClassFile\creatClassFile\distance.cpp(26,10): error C2872: 'distance': ambiguous symbol
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\creatClassFile\creatClassFile\distance.h(6,7): message : could be 'distance'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xutility(1160,45): message : or       'iterator_traits<_Iter>::difference_type std::distance(_InIt,_InIt)'
+  rectangle.cpp
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\creatClassFile\creatClassFile\rectangle.cpp(33,12): error C2512: 'rectangle': no appropriate default constructor available
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\creatClassFile\creatClassFile\rectangle.h(5,7): message : see declaration of 'rectangle'
+  SourceCode.cpp
+  Generating Code...
