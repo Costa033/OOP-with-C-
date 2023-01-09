@@ -1,0 +1,5 @@
+﻿  mainP.cpp
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\Inheritance\Inheritance\mainP.cpp(53,67): warning C4305: 'argument': truncation from 'double' to 'float'
+  postGraduated.cpp
+  Generating Code...
+  Inheritance.vcxproj -> H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\Inheritance\x64\Debug\Inheritance.exe
