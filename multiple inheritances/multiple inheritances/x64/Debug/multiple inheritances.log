@@ -1,0 +1,5 @@
+﻿  Source.cpp
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\multiple inheritances\multiple inheritances\Source.cpp(34,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\multiple inheritances\multiple inheritances\Source.cpp(91,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\multiple inheritances\multiple inheritances\Source.cpp(109,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  multiple inheritances.vcxproj -> H:\courses\Programming\C++\solutions\OOP\OOP-with-C-\multiple inheritances\x64\Debug\multiple inheritances.exe
